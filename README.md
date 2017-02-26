@@ -1,2 +1,2 @@
 # hello-world
-the first repository
+I'm a newbie and i think i will became a master in some day
